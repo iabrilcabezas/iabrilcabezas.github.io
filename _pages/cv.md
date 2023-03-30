@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Applied Mathematics and Theoretical Physics, DAMTP, University of Cambridge (present)
+* MASt in Astrophysics, Institute of Astronomy, University of Cambridge, 2022
+* Physics Degree, Department of Physics, Universidad Complutense de Madrid, 2021
 
 Work experience
 ======
