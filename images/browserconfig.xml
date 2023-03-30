@@ -2,7 +2,10 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square960x960logo src="/images/dream_TradingCard.jpg"/>
+      <square70x70logo src="/images/logo_70x70.jpg"/>
+      <square150x150logo src="/images/logo_150x150.jpg"/>
+      <square310x310logo src="/images/logo_310x310.jpg"/>
+      <wide310x150logo src="/images/logo_310x150.jpg"/>
       <TileColor>#000000</TileColor>
     </tile>
   </msapplication>
