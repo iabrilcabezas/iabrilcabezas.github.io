@@ -6,7 +6,7 @@ excerpt: 'We find a new chemodynamical diagnostic to identify bar resonances in 
 date: 2022-08-10
 venue: 'The Astrophysical Journal'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/ac7da0'
-citation: 'Adam Wheeler <u>et al</u> 2022 <u>ApJ<\u> <strong>935</strong> 28'
+citation: 'Adam Wheeler _et al_ 2022 _ApJ_ **935** 28'
 ---
 
 The Milky Way is a barred disk galaxy: the disk shows a prominent, elongated bar in the centre rotating like a solid body would. In this project, we aim to derive how fast the bar spins (the so-called pattern speed) to place further constraints on the evolution of our Galaxy.
