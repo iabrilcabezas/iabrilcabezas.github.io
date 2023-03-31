@@ -2,7 +2,7 @@
 title: "Chemodynamical signatures of bar resonances in the Galactic disk: current data and future prospects"
 collection: publications
 permalink: /publication/2022-wheeler
-excerpt: 'New diagnostic to identify bar resonances in the Galactic disk'
+excerpt: 'We find a new chemodynamical diagnostic to identify bar resonances in the Galactic disk. Find out more in the post!'
 date: 2022-08-10
 venue: 'The Astrophysical Journal'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/ac7da0'
