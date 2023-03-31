@@ -1,13 +1,16 @@
 ---
 title: "Chemodynamical signatures of bar resonances in the Galactic disk: current data and future prospects"
 collection: publications
-permalink: /publication/2022-wheeler
+permalink: /publication/2022_wheeler
 excerpt: 'We find a new chemodynamical diagnostic to identify bar resonances in the Galactic disk. Find out more in the post!'
 date: 2022-08-10
 venue: 'The Astrophysical Journal'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/ac7da0'
 citation: 'Adam Wheeler _et al_ 2022 _ApJ_ **935** 28'
+arxiv: 'https://arxiv.org/abs/2105.05263'
 ---
+
+[Adam Wheeler _et al_ 2022 _ApJ_ **935** 28](https://iopscience.iop.org/article/10.3847/1538-4357/ac7da0)
 
 The Milky Way is a barred disk galaxy: the disk shows a prominent, elongated bar in the centre rotating like a solid body would. In this project, we aim to derive how fast the bar spins (the so-called pattern speed) to place further constraints on the evolution of our Galaxy.
 
@@ -15,7 +18,6 @@ Stars in the disk circulate around the centre describing almost circular orbits.
 
 This result was applied to Gaia and LAMOST data. We find weak evidence for a slow bar, although constraints from current data are limited by their spatial footprint. Future data sets with greater azimuthal coverage, including the final Gaia data release, will allow reliable chemodynamical identification of bar resonances with this method.
 
-[Adam Wheeler _et al_ 2022 _ApJ_ **935** 28](https://iopscience.iop.org/article/10.3847/1538-4357/ac7da0)
 
 [1] [Wilma H. Trick _et al_ 2021 _MNRAS_ **500** 2645](https://doi.org/10.1093/mnras/staa3317)
 
