@@ -47,23 +47,23 @@ Research experience
   * Instrumentation technician
   * Topic: Upgrade and fixing of AIRIS imaging relative ionospheric opacity meter
 
-Awards, selected
+Awards (selected)
 ---------
 
-Dec 2022&nbsp;&nbsp;&nbsp;V WONNOW Women in Science and Technology Award, Caixa Bank & Microsoft Iberia  
-July 2022&nbsp;&nbsp;1912 Senior Scholarship, Fitzwilliam College  
-July 2022&nbsp;&nbsp;Sir John Stratton Prize, Fitzwilliam College  
-June 2022&nbsp;&nbsp;“Mauricio y Carlota Botton” Foundation PhD Scholarship  
-Mar 2022&nbsp;&nbsp;&nbsp;Cambridge Trust International PhD Scholarship  
-Mar 2022&nbsp;&nbsp;&nbsp;University of Oxford Clarendon Scholarship & Hintze Scholarship (declined)  
-Oct 2021&nbsp;&nbsp;&nbsp;Premio Extraordinario Fin de Grado, class of 2021  
-Oct 2021&nbsp;&nbsp;&nbsp;Premio de las Ciencias “Arturo Duperier” (best academic transcript UCM Dept. of Physics)  
-July 2021&nbsp;&nbsp;German Academic Exchange Service (DAAD) Study Scholarship - Master Studies for All Academic Disciplines (declined)  
-May 2021&nbsp;&nbsp;&nbsp;“la Caixa” Foundation Fellowships Programme for Postgraduate Studies Abroad (declined)  
-May 2021&nbsp;&nbsp;&nbsp;Fitzwilliam College Master’s Studentship  
-May 2016&nbsp;&nbsp;&nbsp;European Space Camp ESA Scholarship  
-June 2015&nbsp;&nbsp;3rd prize National Distinction Award in Obligatory Secondary Education  
-Sept 2014&nbsp;&nbsp;Top 14 Madrid Distinction Award in Obligatory Secondary Education  
+Dec 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V WONNOW Women in Science and Technology Award, Caixa Bank & Microsoft Iberia  
+July 2022&nbsp;&nbsp;&nbsp;&nbsp;1912 Senior Scholarship, Fitzwilliam College  
+July 2022&nbsp;&nbsp;&nbsp;&nbsp;Sir John Stratton Prize, Fitzwilliam College  
+June 2022&nbsp;&nbsp;&nbsp;&nbsp;“Mauricio y Carlota Botton” Foundation PhD Scholarship  
+Mar 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cambridge Trust International PhD Scholarship  
+Mar 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Oxford Clarendon Scholarship & Hintze Scholarship (declined)  
+Oct 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio Extraordinario Fin de Grado, class of 2021  
+Oct 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio de las Ciencias “Arturo Duperier” (best academic transcript UCM Dept. of Physics)  
+July 2021&nbsp;&nbsp;&nbsp;&nbsp;German Academic Exchange Service Master Studies Scholarship (declined)  
+May 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“la Caixa” Foundation Fellowships Programme for Postgraduate Studies Abroad (declined)  
+May 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fitzwilliam College Master’s Studentship  
+May 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;European Space Camp ESA Scholarship  
+June 2015&nbsp;&nbsp;&nbsp;&nbsp;3rd prize National Distinction Award in Obligatory Secondary Education  
+Sept 2014&nbsp;&nbsp;&nbsp;&nbsp;Top 14 Madrid Distinction Award in Obligatory Secondary Education  
 
 
 <!-- Skills
