@@ -6,7 +6,7 @@ excerpt: 'We find a new chemodynamical diagnostic to identify bar resonances in 
 date: 2022-08-10
 venue: 'The Astrophysical Journal'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/ac7da0'
-citation: 'Adam Wheeler <em>et al<\em> 2022 <em>ApJ<\em> <strong>935<\strong> 28'
+citation: 'Adam Wheeler et al 2022 ApJ 935 28'
 arxiv: 'https://arxiv.org/abs/2105.05263'
 ---
 
