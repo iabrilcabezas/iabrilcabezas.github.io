@@ -10,24 +10,63 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---------
+
 * PhD in Applied Mathematics and Theoretical Physics, DAMTP, University of Cambridge (present)
 * MASt in Astrophysics, Institute of Astronomy, University of Cambridge, 2022
 * Physics Degree, Department of Physics, Universidad Complutense de Madrid, 2021
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Research experience
+----------
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022, Institute of Astronomy, University of Cambrdige (United Kingdom)
+  * Supervisor: Prof. Anastasia Fialkov
+  * Topic: X-ray background analysis from 21-cm numerical simulations
+
+* Summer 2021, Institut de Ciences del Cosmos, Universitat de Barcelona (Spain)
+  * Supervisor: Prof. Licia Verde
+  * Topic: Generic non-gaussian initial conditions in N-body simulations
   
-Skills
+* Spring 2021, Physics Faculty, Universidad Complutense de Madrid (Spain)
+  * Supervisor: Dr. Alberto Dominguez
+  * Topic: Spectral analysis of Fermi-LAT blazars - insight into their emission mechanisms and the extragalactic background light
+
+* Autumn 2019, Max-Planck-Institute for Astrophysics (Germany)
+  * Supervisors: Prof. Francesca Fragkoudi and Dr. Wilma Trick
+  * Topic: Pattern speed of the Galactic bar based on the orbital frequencies of stars in the solar neighbourhood
+
+* Summer 2019, Academia Sinica Institute for Astronomy and Astrophysics (Taiwan)
+  * Supervisor: Dr. Sascha T. Zeegers
+  * Topic: Study of the size distribution of dust grains in thee interstellar medium using spectra of X-ray binaries
+
+* Summer 2018, Astrophysics Sub-Department, University of Oxford (United Kingdom)
+  * Supervisor: Dr. Yiqing Liu
+  * Topic: Characterisation of stellar populations in low-mass early-type galaxies using long-slit spectroscopy
+  
+* Summer 2017, Andoya Space Center (Norway)
+  * Instrumentation technician
+  * Topic: Upgrade and fixing of AIRIS imaging relative ionospheric opacity meter
+
+Awards, selected
+---------
+
+Dec 2022, V WONNOW Women in Science and Technology Award, Caixa Bank & Microsoft Iberia
+July 2022 1912 Senior Scholarship, Fitzwilliam College
+July 2022 Sir John Stratton Prize, Fitzwilliam College
+June 2022 “Mauricio y Carlota Botton” Foundation PhD Scholarship
+Mar 2022 Cambridge Trust International PhD Scholarship
+Mar 2022 University of Oxford Clarendon Scholarship & Hintze Scholarship (declined)
+Oct 2021 Premio Extraordinario Fin de Grado, class of 2021
+Oct 2021 Premio de las Ciencias “Arturo Duperier” (best academic transcript UCM Dept. of Physics)
+July 2021 German Academic Exchange Service (DAAD) Study Scholarship - Master Studies for All Academic Disciplines (declined)
+May 2021 “la Caixa” Foundation Fellowships Programme for Postgraduate Studies Abroad (declined)
+May 2021 Fitzwilliam College Master’s Studentship
+May 2016 European Space Camp ESA Scholarship
+June 2015 3rd prize National Distinction Award in Obligatory Secondary Education
+Sept 2014 Top 14 Madrid Distinction Award in Obligatory Secondary Education
+
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +95,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
