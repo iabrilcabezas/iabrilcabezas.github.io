@@ -50,20 +50,20 @@ Research experience
 Awards, selected
 ---------
 
-Dec 2022, V WONNOW Women in Science and Technology Award, Caixa Bank & Microsoft Iberia  
-July 2022 1912 Senior Scholarship, Fitzwilliam College  
-July 2022 Sir John Stratton Prize, Fitzwilliam College  
-June 2022 “Mauricio y Carlota Botton” Foundation PhD Scholarship  
-Mar 2022 Cambridge Trust International PhD Scholarship  
-Mar 2022 University of Oxford Clarendon Scholarship & Hintze Scholarship (declined)  
-Oct 2021 Premio Extraordinario Fin de Grado, class of 2021  
-Oct 2021 Premio de las Ciencias “Arturo Duperier” (best academic transcript UCM Dept. of Physics)  
-July 2021 German Academic Exchange Service (DAAD) Study Scholarship - Master Studies for All Academic Disciplines (declined)  
-May 2021 “la Caixa” Foundation Fellowships Programme for Postgraduate Studies Abroad (declined)  
-May 2021 Fitzwilliam College Master’s Studentship  
-May 2016 European Space Camp ESA Scholarship  
-June 2015 3rd prize National Distinction Award in Obligatory Secondary Education  
-Sept 2014 Top 14 Madrid Distinction Award in Obligatory Secondary Education  
+Dec 2022   V WONNOW Women in Science and Technology Award, Caixa Bank & Microsoft Iberia  
+July 2022  1912 Senior Scholarship, Fitzwilliam College  
+July 2022  Sir John Stratton Prize, Fitzwilliam College  
+June 2022  “Mauricio y Carlota Botton” Foundation PhD Scholarship  
+Mar 2022   Cambridge Trust International PhD Scholarship  
+Mar 2022   University of Oxford Clarendon Scholarship & Hintze Scholarship (declined)  
+Oct 2021   Premio Extraordinario Fin de Grado, class of 2021  
+Oct 2021   Premio de las Ciencias “Arturo Duperier” (best academic transcript UCM Dept. of Physics)  
+July 2021  German Academic Exchange Service (DAAD) Study Scholarship - Master Studies for All Academic Disciplines (declined)  
+May 2021   “la Caixa” Foundation Fellowships Programme for Postgraduate Studies Abroad (declined)  
+May 2021   Fitzwilliam College Master’s Studentship  
+May 2016   European Space Camp ESA Scholarship  
+June 2015  3rd prize National Distinction Award in Obligatory Secondary Education  
+Sept 2014  Top 14 Madrid Distinction Award in Obligatory Secondary Education  
 
 
 <!-- Skills
