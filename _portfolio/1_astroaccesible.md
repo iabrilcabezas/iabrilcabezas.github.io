@@ -1,5 +1,5 @@
 ---
-title: "Astroaccesible"
+title: "AstroAccesible"
 excerpt: "Popular science materials for the visually impaired"
 collection: portfolio
 ---
