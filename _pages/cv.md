@@ -46,7 +46,7 @@ May 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;European Space Camp ESA Scholarship
 June 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd prize National Distinction Award in Obligatory Secondary Education  
 Sept 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top 14 Madrid Distinction Award in Obligatory Secondary Education  
 
-Teaching
+Teaching (supervisor)
 ---------
 
 * Part III Cosmology, 2023. University of Cambridge
