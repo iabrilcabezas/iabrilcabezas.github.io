@@ -13,10 +13,46 @@ Education
 ---------
 
 * PhD in Applied Mathematics and Theoretical Physics, DAMTP, University of Cambridge (present)
-* MASt in Astrophysics, Institute of Astronomy, University of Cambridge, 2022
-* Physics Degree, Department of Physics, Universidad Complutense de Madrid, 2021
+* MASt in Astrophysics, Institute of Astronomy, University of Cambridge, 2022 (Rank 1/7)
+* Physics Degree, Department of Physics, Universidad Complutense de Madrid, 2021 (Extraordinary End-of-Degree Award)
 
-Research experience
+Talks
+---------
+
+Oct 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Pan-Experiment Galactic Science Group Journal Club, virtual  
+Sept 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** 26th International Conference on Particle Physics and Cosmology, Madrid  
+July 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Understanding Comological Observations Workshop, Benasque  
+June 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Kavli Institute for Cosmology Focus Meeting on Astrostatistics and Astro-Machine Learning, Cambridge  
+June 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SO:UK Collaboration Meeting, Cambridge  
+June 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gaia UB Journal Club, Institut de Ciències del Cosmos, virtual  
+Mar 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fermi-LAT Collaboration meeting, virtual  
+Jan 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Science Meeting, SRON Netherlands Institute for Space Research, Utrecht  
+
+Awards (selected)
+---------
+
+Dec 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V WONNOW Women in Science and Technology Award, Caixa Bank & Microsoft Iberia. See press coverages [here](https://tribuna.ucm.es/news/irene-abril-graduada-en-fisica-por-la-complutense-gana-los-premios-wonnow-2022), [here](https://www.caixabank.com/comunicacion/noticia/caixabank-y-microsoft-entregan-los-premios-wonnow-a-las-mejores-alumnas-de-grados-stem-de-espana_es.html?id=43809), [here](https://news.microsoft.com/es-es/2022/12/14/caixabank-y-microsoft-entregan-los-premios-wonnow-a-las-mejores-alumnas-de-grados-stem-de-espana/), [here](https://bembibredigital.com/sociedad/63106-irene-abril-cabezas-natural-de-la-silva-gana-la-quinta-edicion-de-los-premios-wonnow-que-reconocen-a-las-mejores-alumnas-espanolas-stem) and [here](https://www.diariodeleon.es/articulo/innova/vida-mirando-estrellas/202301030342472290640.html)!  
+July 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1912 Senior Scholarship, Fitzwilliam College  
+July 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir John Stratton Prize, Fitzwilliam College  
+June 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Mauricio y Carlota Botton“ Foundation PhD Scholarship  
+Mar 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cambridge Trust International PhD Scholarship  
+Mar 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Oxford Clarendon Scholarship & Hintze Scholarship (declined)  
+Oct 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio Extraordinario Fin de Grado, class of 2021  
+Oct 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio de las Ciencias “Arturo Duperier” (best academic transcript UCM Dept. of Physics)  
+July 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;German Academic Exchange Service Master Studies Scholarship (declined)  
+May 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“la Caixa” Foundation Fellowships Programme for Postgraduate Studies Abroad (declined)  
+May 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fitzwilliam College Master’s Studentship  
+May 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;European Space Camp ESA Scholarship  
+June 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd prize National Distinction Award in Obligatory Secondary Education  
+Sept 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top 14 Madrid Distinction Award in Obligatory Secondary Education  
+
+Teaching
+---------
+
+* Part III Cosmology, 2023. University of Cambridge
+* Part Ia Dynamics and Relativity, 2024. University of Cambridge
+
+Undergraduate Research Experience
 ----------
 
 * Summer 2022, Institute of Astronomy, University of Cambrdige (United Kingdom)
@@ -46,24 +82,6 @@ Research experience
 * Summer 2017, Andoya Space Center (Norway)
   * Instrumentation technician
   * Topic: Upgrade and fixing of AIRIS imaging relative ionospheric opacity meter
-
-Awards (selected)
----------
-
-Dec 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V WONNOW Women in Science and Technology Award, Caixa Bank & Microsoft Iberia. See press coverages [here](https://tribuna.ucm.es/news/irene-abril-graduada-en-fisica-por-la-complutense-gana-los-premios-wonnow-2022), [here](https://www.caixabank.com/comunicacion/noticia/caixabank-y-microsoft-entregan-los-premios-wonnow-a-las-mejores-alumnas-de-grados-stem-de-espana_es.html?id=43809), [here](https://news.microsoft.com/es-es/2022/12/14/caixabank-y-microsoft-entregan-los-premios-wonnow-a-las-mejores-alumnas-de-grados-stem-de-espana/), [here](https://bembibredigital.com/sociedad/63106-irene-abril-cabezas-natural-de-la-silva-gana-la-quinta-edicion-de-los-premios-wonnow-que-reconocen-a-las-mejores-alumnas-espanolas-stem) and [here](https://www.diariodeleon.es/articulo/innova/vida-mirando-estrellas/202301030342472290640.html)!  
-July 2022&nbsp;&nbsp;&nbsp;&nbsp;1912 Senior Scholarship, Fitzwilliam College  
-July 2022&nbsp;&nbsp;&nbsp;&nbsp;Sir John Stratton Prize, Fitzwilliam College  
-June 2022&nbsp;&nbsp;&nbsp;&nbsp;“Mauricio y Carlota Botton” Foundation PhD Scholarship  
-Mar 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cambridge Trust International PhD Scholarship  
-Mar 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Oxford Clarendon Scholarship & Hintze Scholarship (declined)  
-Oct 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio Extraordinario Fin de Grado, class of 2021  
-Oct 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Premio de las Ciencias “Arturo Duperier” (best academic transcript UCM Dept. of Physics)  
-July 2021&nbsp;&nbsp;&nbsp;&nbsp;German Academic Exchange Service Master Studies Scholarship (declined)  
-May 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“la Caixa” Foundation Fellowships Programme for Postgraduate Studies Abroad (declined)  
-May 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fitzwilliam College Master’s Studentship  
-May 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;European Space Camp ESA Scholarship  
-June 2015&nbsp;&nbsp;&nbsp;&nbsp;3rd prize National Distinction Award in Obligatory Secondary Education  
-Sept 2014&nbsp;&nbsp;&nbsp;&nbsp;Top 14 Madrid Distinction Award in Obligatory Secondary Education  
 
 
 <!-- Skills

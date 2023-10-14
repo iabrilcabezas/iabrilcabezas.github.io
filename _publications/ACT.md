@@ -6,8 +6,8 @@ excerpt: 'Publications as part of the Atacama Cosmology Telescope Collaboration'
 date: 2023-02-01
 venue: ''
 paperurl: ''
-citation: ''
-arxiv: ''
+citation: 'The Atacama Cosmology Telescope Collaboration, incl. Irene Abril-Cabezas'
+arxiv: 'https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=irene+abril-cabezas&terms-0-field=author&terms-1-operator=AND&terms-1-term=The+Atacama+Cosmology+Telescope&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first'
 ---
 
 [1] "_The Atacama Cosmology Telescope: Cosmology from cross-correlations of unWISE galaxies and ACT DR6 CMB lensing_" Gerrit S. Farren, ..., **Irene Abril-Cabezas**, _et al_, 2023, submitted to ApJ, [arXiv:2309.05659](https://arxiv.org/pdf/2309.05659.pdf)
