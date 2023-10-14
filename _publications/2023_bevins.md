@@ -1,7 +1,7 @@
 ---
 title: "Joint analysis constraints on the physics of the first galaxies with low frequency radio astronomy data"
 collection: publications
-permalink: /publication/2023_bevins
+permalink: # /publication/2023_bevins
 excerpt: 'We provide the strongest constraints so far on the astrophysics of the first stars and galaxies!'
 date: 2023-01-09
 venue: 'arXiv'
