@@ -18,4 +18,4 @@ arxiv: 'https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0
 
 [4] "_The Atacama Cosmology Telescope: A Measurement of the DR6 CMB Lensing Power Spectrum and its Impli- cations for Structure Growth_" Frank J. Qu, ..., **Irene Abril-Cabezas**, _et al_, 2023, submitted to ApJ, [arXiv:2304.05202](https://arxiv.org/pdf/2304.05202.pdf)
 
-[5] "_The Atacama Cosmology Telescope: Mitigating the impact of extragalactic foregrounds for the DR6 CMB lensing analysis_" Niall MacCrann, ..., **Irene Abril-Cabezas**, _et al_, 2023, submitted to ApJ, [arXiv:2304.05196](https://arxiv.org/pdf/2304.05196.pdf)
+[5] "_The Atacama Cosmology Telescope: Mitigating the impact of extragalactic foregrounds for the DR6 CMB lensing analysis_" Niall MacCrann, ..., **Irene Abril-Cabezas**, _et al_, 2023, submitted to ApJ, [arXiv:2304.05196](https://arxiv.org/pdf/2304.05196.pdf)  
