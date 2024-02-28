@@ -4,6 +4,9 @@ excerpt: "Conferences, events, resources to inspire and be inspired"
 collection: portfolio
 ---
 
+<!-- 
+- **[Innovadoras TIC](https://innovadorastic.org). Featured in the 2024 edition of this [magazine]().
+-->
 - **[Soapbox Science](http://soapboxscience.org) speaker**. Invited speaker to the I Soapbox science event in Spain. These events promote women and non-binary scientists. They use public spaces and transform them into a place where the public can interact first-hand with them
 - **Interviewed on the Spanish National Radio programme "La hora pódcast"**. In the interview, we discussed about the role women play in science. It was broadcast as part of International Women's Day 2023. You can listen to the interview (in Spanish!) [here](https://www.rtve.es/play/audios/la-hora-podcast/nuria-oliver-irene-cabezas-derroche-talento-cientificas-altos-vuelos-10-03-23/6826285/).
 - **Mentor** of participant in [Maths in Cambridge internship programme](https://www.maths.cam.ac.uk/internships/philippa-fawcett-internship-programme) for women and non-binary students

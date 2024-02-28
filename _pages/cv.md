@@ -18,7 +18,7 @@ Education
 
 Talks
 ---------
-
+Oct 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** CMB-S4 low-ell BB working group call
 Oct 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Pan-Experiment Galactic Science Group Journal Club, virtual  
 Sept 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** 26th International Conference on Particle Physics and Cosmology, Madrid  
 July 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Understanding Comological Observations Workshop, Benasque  
@@ -49,8 +49,17 @@ Sept 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top 14 Madrid Distinction Award in Obliga
 Teaching (supervisor)
 ---------
 
-* Part III Cosmology, 2023. University of Cambridge
 * Part Ia Dynamics and Relativity, 2024. University of Cambridge
+* Part III Cosmology, 2023. University of Cambridge
+
+
+Departmental Service
+---------
+
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Mathematics EDI Committee Member  
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cosmology PhD Journal Club Organiser  
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pre-seminar (''Meet-the-speaker'') Cambridge Cosmology Lunch Talk Organiser  
+2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cambridge Cosmology Journal Club Organizer
 
 Undergraduate Research Experience
 ----------
@@ -82,7 +91,6 @@ Undergraduate Research Experience
 * Summer 2017, Andoya Space Center (Norway)
   * Instrumentation technician
   * Topic: Upgrade and fixing of AIRIS imaging relative ionospheric opacity meter
-
 
 <!-- Skills
 ======
