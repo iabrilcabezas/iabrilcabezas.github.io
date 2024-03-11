@@ -18,7 +18,7 @@ Education
 
 Talks
 ---------
-Oct 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** CMB-S4 low-ell BB working group call
+Oct 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** CMB-S4 low-ell BB working group call  
 Oct 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Pan-Experiment Galactic Science Group Journal Club, virtual  
 Sept 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** 26th International Conference on Particle Physics and Cosmology, Madrid  
 July 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Understanding Comological Observations Workshop, Benasque  
