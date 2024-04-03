@@ -31,6 +31,7 @@ Jan 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** S
 Awards (selected)
 ---------
 
+April 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Smith-Knight and Rayleigh-Knight Prize](https://en.wikipedia.org/wiki/Smith%27s_Prize) 2024 (Grade 3), Faculty of Mathematics, University of Cambridge  
 Dec 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V WONNOW Women in Science and Technology Award, Caixa Bank & Microsoft Iberia. See press coverages [here](https://tribuna.ucm.es/news/irene-abril-graduada-en-fisica-por-la-complutense-gana-los-premios-wonnow-2022), [here](https://www.caixabank.com/comunicacion/noticia/caixabank-y-microsoft-entregan-los-premios-wonnow-a-las-mejores-alumnas-de-grados-stem-de-espana_es.html?id=43809), [here](https://news.microsoft.com/es-es/2022/12/14/caixabank-y-microsoft-entregan-los-premios-wonnow-a-las-mejores-alumnas-de-grados-stem-de-espana/), [here](https://bembibredigital.com/sociedad/63106-irene-abril-cabezas-natural-de-la-silva-gana-la-quinta-edicion-de-los-premios-wonnow-que-reconocen-a-las-mejores-alumnas-espanolas-stem) and [here](https://www.diariodeleon.es/articulo/innova/vida-mirando-estrellas/202301030342472290640.html)!  
 July 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1912 Senior Scholarship, Fitzwilliam College  
 July 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sir John Stratton Prize, Fitzwilliam College  
