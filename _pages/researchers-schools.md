@@ -1,10 +1,11 @@
 ---
-layout: archive
+layout: page
+permalink: /researchers-schools/
 title: "Resources: Researchers in Schools Programme"
 ---
 
 # Resources: Researchers in Schools Programme
 
-- [Session 1](files/ResearchersSchools/ArkActon_Session1.pdf)
-- [Session 2](files/ResearchersSchools/ArkActon_Session2.txt)
+- [Session 1](/files/ResearchersSchools/ArkActon_Session1.pdf)
+- [Session 2](/files/ResearchersSchools/ArkActon_Session2.txt)
   
