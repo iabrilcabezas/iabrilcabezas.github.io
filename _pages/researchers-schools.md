@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /researchers-schools/
+author_profile: true
 title: "Resources: Researchers in Schools Programme"
 ---
 
