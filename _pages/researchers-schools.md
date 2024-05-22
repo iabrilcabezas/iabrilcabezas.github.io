@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: archive
 title: "Resources: Researchers in Schools Programme"
-author_profile: true
-
 ---
 
 # Resources: Researchers in Schools Programme
