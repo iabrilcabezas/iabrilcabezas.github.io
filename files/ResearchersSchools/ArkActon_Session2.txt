@@ -1,5 +1,0 @@
-Session 2 was based on materials developed for International Women’s Day at the Institute of Astronomy, Cambridge.
-
-Slides: https://docs.google.com/presentation/d/1yp81eEi25TsnwC7Tj5q4aTMXgA4wmSRPiMUphiycehQ/edit?usp=sharing
-
-Notebook: https://githubtocolab.com/erinhay/outreach/blob/main/IWD/IWD_transitingplanets.ipynb
