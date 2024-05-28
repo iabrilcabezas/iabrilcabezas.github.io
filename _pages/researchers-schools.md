@@ -11,7 +11,4 @@ title: "Resources: Researchers in Schools Programme"
 - **Session 4: Exoplanets (II)**. [BiteScis](https://bitescis.org) lesson [_Using Spectroscopy To Find Life On Other Planets_](https://bitescis.org/lesson-plan/using-spectroscopy-to-find-life-on-other-planets/).  
 - **Session 5: Exoplanets (III)**. Apply what we have learned so far! [State-of-the-art research example](https://arxiv.org/pdf/2309.05566) (press coverage [here](https://www.cam.ac.uk/stories/carbon-found-in-habitable-zone-exoplanet)).  
 - **Session 6: Exploring your own interests** with [QuantaMagazine](https://www.quantamagazine.org).  
-<!-- - **Session 7: The Sun (II)**. [Slides]() and [Problem Sheet]() source of energy. Example problems here 
-- **Session 8: Cosmology**. Supernova cosmology.
-
--->
+  
