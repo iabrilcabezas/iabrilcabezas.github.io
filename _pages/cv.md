@@ -63,7 +63,9 @@ Departmental Service
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Mathematics EDI Committee Member  
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cosmology PhD Journal Club Organiser  
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pre-seminar (''Meet-the-speaker'') Cambridge Cosmology Lunch Talk Organiser  
+2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Part III Cosmology Exam Marks Checker  
 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cambridge Cosmology Journal Club Organizer
+
 
 Undergraduate Research Experience
 ----------
