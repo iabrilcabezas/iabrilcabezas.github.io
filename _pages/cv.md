@@ -18,6 +18,13 @@ Education
 
 Talks
 ---------
+
+July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited speaker** Dialogue "Women's leadership in Physics", The XXXIX
+RSEF Physics
+Biennial, Donostia  
+July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Theoretical and Particle Physics Symposium, The XXXIX
+RSEF Physics
+Biennial, Donostia  
 April 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** 58th Rencontres de Moriond, La Thuile  
 Oct 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** CMB-S4 low-ell BB working group call, virtual  
 Oct 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Pan-Experiment Galactic Science Group Journal Club, virtual  
@@ -66,6 +73,17 @@ Departmental Service
 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part III Cosmology Exam Marks Checker  
 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cambridge Cosmology Journal Club Organizer
 
+
+Workshops
+-----------
+
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Bayesian Cosmological Data Analysis Course](https://www.cosmoglobe.uio.no/events/bcda-course-2024/bayesian-cosmological-data-analysis-course-2024), University of Oslo, Norway  
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atacama Cosmology Telescope/South Pole Telescope Data Analysis School,
+University of Chicago, USA  
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Summer School on Cosmology](https://indico.ictp.it/event/10483),
+ICTP Trieste, Italy  
+2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[École thématique du CNRS _Future Cosmology_](https://www.cpt.univ-mrs.fr/~cosmo/EC2023/index.php),
+IESC Cargèse, France  
 
 Undergraduate Research Experience
 ----------
