@@ -80,7 +80,7 @@ Workshops
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Bayesian Cosmological Data Analysis Course](https://www.cosmoglobe.uio.no/events/bcda-course-2024/bayesian-cosmological-data-analysis-course-2024), University of Oslo, Norway  
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atacama Cosmology Telescope/South Pole Telescope Data Analysis School,
 University of Chicago, USA  
-2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[73rd Lindau Nobel Laureate Meeting (Physics)](https://www.lindau-nobel.org), Lindau, Germany. Participation featured [here](https://www.maths.cam.ac.uk/features/cambridge-snapshots-irene-abril-cabezas).    
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[73rd Lindau Nobel Laureate Meeting (Physics)](https://www.lindau-nobel.org), Lindau, Germany. Participation sponsored by the Lindau Nobel Laureate and German Research Foundations, and featured [here](https://www.maths.cam.ac.uk/features/cambridge-snapshots-irene-abril-cabezas), [here](https://womeninresearchblog.wordpress.com/2024/06/29/irene-spain/), [here](https://tribuna.ucm.es/news/irene-abril-una-complutense-en-los-lindau-nobel-laureate-meetings) and [here]( https://www.lindau-nobel.org/blog-women-in-research-lino24-irene-abril-cabezas/).   
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Summer School on Cosmology](https://indico.ictp.it/event/10483),
 ICTP Trieste, Italy  
 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[École thématique du CNRS _Future Cosmology_](https://www.cpt.univ-mrs.fr/~cosmo/EC2023/index.php),

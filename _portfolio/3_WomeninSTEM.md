@@ -7,6 +7,8 @@ collection: portfolio
 <!-- 
 (https://innovadorastic.org). Featured in the 2024 edition of this [magazine]().
 -->
+- **Invited plenary speaker** Dialogue "Women's leadership in Physics" at the XXXIX Royal Spanish Physics Society Biennial Meeting, Donostia (Spain)  
+- **Featured interview** as part of the Women in Research Blog of the 73rd Lindau Nobel Laureate Meeting (Physics). You can read it [here](https://www.lindau-nobel.org/blog-women-in-research-lino24-irene-abril-cabezas/).  
 - **Invited speaker** Snapshots of Research at the Centre for Mathematical Sciences, Cambridge, May 3rd 2024.
 - **TV Interview La 8 Bierzo Magazine** as part of International Women's Day 2024. Watch it [here](https://www.youtube.com/watch?v=zi7Hv8knSAA)!   
 - **Invited interview** in [Innovadoras TIC](https://innovadorastic.org/blog/posts/irene-abril-la-astrofisica-espanola-que-estudia-los-secretos-del-universo). See also the [promotional video](https://youtu.be/elSC3eySXuo?feature=shared).   
