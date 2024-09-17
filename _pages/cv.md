@@ -19,6 +19,7 @@ Education
 Talks
 ---------
 
+Sept 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited speaker** Cosmoglobe 2024 Collaboration Meeting, virtual  
 July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited speaker** Dialogue "Women's leadership in Physics", The XXXIX
 RSEF Physics
 Biennial, Donostia  
@@ -67,6 +68,7 @@ Teaching (supervisor)
 Departmental Service
 ---------
 
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOC Member "New Physics from Old Light: Illuminating the Universe with CMB Secondaries" KICC Workshop  
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty of Mathematics EDI Committee Member  
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cosmology PhD Journal Club Organiser  
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pre-seminar (''Meet-the-speaker'') Cambridge Cosmology Lunch Talk Organiser  
