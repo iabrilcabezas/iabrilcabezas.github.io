@@ -19,25 +19,25 @@ Education
 Talks
 ---------
 
-Sept 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited speaker** Cosmoglobe 2024 Collaboration Meeting, virtual  
-July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited speaker** Dialogue "Women's leadership in Physics", The XXXIX
+09/24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited speaker** Cosmoglobe 2024 Collaboration Meeting, virtual  
+07/24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited speaker** Dialogue "Women's leadership in Physics", The XXXIX
 RSEF Physics
 Biennial, Donostia  
-July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Theoretical and Particle Physics Symposium, The XXXIX
+07/24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Theoretical and Particle Physics Symposium, The XXXIX
 RSEF Physics
 Biennial, Donostia  
-April 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** 58th Rencontres de Moriond, La Thuile  
-Oct 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** CMB-S4 low-ell BB working group call, virtual  
-Oct 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Pan-Experiment Galactic Science Group Journal Club, virtual  
-Sept 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** 26th International Conference on Particle Physics and Cosmology, Madrid  
-Sept 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Microsoft Women in Data Centers Group, Madrid  
-July 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Understanding Comological Observations Workshop, Benasque  
-June 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** KICC Focus Meeting on Astrostatistics and Astro-Machine Learning, Cambridge  
-June 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SO:UK Collaboration Meeting, Cambridge  
-March 2022&nbsp;&nbsp;&nbsp;&nbsp;Fitzwilliam College Postgraduate Talks, Cambridge  
-June 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gaia UB Journal Club, Institut de Ciències del Cosmos, virtual  
-Mar 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fermi-LAT Collaboration meeting, virtual  
-Jan 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Science Meeting, SRON Netherlands Institute for Space Research, Utrecht  
+04/24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** 58th Rencontres de Moriond, La Thuile  
+10/23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** CMB-S4 low-ell BB working group call, virtual  
+10/23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Pan-Experiment Galactic Science Group Journal Club, virtual  
+09/23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** 26th International Conference on Particle Physics and Cosmology, Madrid  
+09/23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Microsoft Women in Data Centers Group, Madrid  
+07/23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Understanding Comological Observations Workshop, Benasque  
+06/23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** KICC Focus Meeting on Astrostatistics and Astro-Machine Learning, Cambridge  
+06/23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SO:UK Collaboration Meeting, Cambridge  
+03/22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fitzwilliam College Postgraduate Talks, Cambridge  
+06/21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gaia UB Journal Club, Institut de Ciències del Cosmos, virtual  
+03/21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fermi-LAT Collaboration meeting, virtual  
+01/20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Science Meeting, SRON Netherlands Institute for Space Research, Utrecht  
 
 Awards (selected)
 ---------
