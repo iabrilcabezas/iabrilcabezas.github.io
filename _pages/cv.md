@@ -35,7 +35,7 @@ Biennial, Donostia
 06/23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** KICC Focus Meeting on Astrostatistics and Astro-Machine Learning, Cambridge  
 06/23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SO:UK Collaboration Meeting, Cambridge  
 03/22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fitzwilliam College Postgraduate Talks, Cambridge  
-June 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gaia UB Journal Club, Institut de Ciències del Cosmos, virtual  
+06/21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gaia UB Journal Club, Institut de Ciències del Cosmos, virtual  
 03/21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fermi-LAT Collaboration meeting, virtual  
 01/20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Science Meeting, SRON Netherlands Institute for Space Research, Utrecht  
 
