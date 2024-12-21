@@ -61,9 +61,9 @@ Sept 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top 14 Madrid Distinction Award in Obliga
 Teaching
 ---------
 
-* Interviewer: Mathematics Undergraduate Admissions at Fitzwilliam College (2024), University of Cambridge
-* Supervisor: Part Ia Dynamics and Relativity (2024), University of Cambridge
-* Sueprvisor: Part III Cosmology (2023), University of Cambridge
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interviewer: Mathematics Undergraduate Admissions at Fitzwilliam College, University of Cambridge  
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Part Ia Dynamics and Relativity, University of Cambridge   
+2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Part III Cosmology, University of Cambridge
 
 
 Departmental Service
