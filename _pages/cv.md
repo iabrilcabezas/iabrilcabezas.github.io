@@ -19,6 +19,7 @@ Education
 Talks
 ---------
 
+Jan 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Cambridge-LMU Munich Joint Seminar, Cambridge  
 Sept 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited speaker** Cosmoglobe 2024 Collaboration Meeting, virtual  
 July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited speaker** Dialogue "Women's leadership in Physics", The XXXIX
 RSEF Physics
