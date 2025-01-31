@@ -49,7 +49,9 @@ jobs:
           JEKYLL_ENV: production
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
-        # Automatically uploads an artifact from the './_site' directory by default
+        with:
+            name: my-artifact-${{ matrix.runs-on }}
+            path: file-${{ matrix.runs-on }}.txt
 
   # Deployment job
   deploy:
