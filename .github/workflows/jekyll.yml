@@ -53,7 +53,7 @@ jobs:
     needs: build
     steps:
       - name: Verify Artifact
-        run: ls -R _site
+        run: ls -R ./_site
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
