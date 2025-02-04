@@ -21,7 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Ensure token is passed here
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Ruby
         uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408
         with:
@@ -53,9 +53,7 @@ jobs:
     needs: build
     steps:
       - name: Verify Artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
+        run: ls -R _site
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
