@@ -19,6 +19,8 @@ Education
 Talks
 ---------
 
+April 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Tales of Gravity, Nottingham  
+Mar 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Stanford CMB constellation meeting, virtual  
 Jan 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Cambridge-LMU Munich Joint Seminar, Cambridge  
 Sept 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited speaker** Cosmoglobe 2024 Collaboration Meeting, virtual  
 July 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited speaker** Dialogue "Women's leadership in Physics", The XXXIX
