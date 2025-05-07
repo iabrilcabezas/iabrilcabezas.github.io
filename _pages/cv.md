@@ -76,7 +76,7 @@ Departmental Service
 ---------
 
 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizer "New results from ACT and DESI" KICC Discussion Day  
-2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOC Member "New Physics from Old Light: Illuminating the Universe with CMB Secondaries" KICC Workshop  
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOC Member "New Physics from Old Light: Illuminating the Universe with CMB Secondaries" KICC Workshop  
 2024—&nbsp;&nbsp;&nbsp;Faculty of Mathematics EDI Committee Member  
 2024—&nbsp;&nbsp;&nbsp;Cosmology PhD Journal Club Organiser  
 2024—&nbsp;&nbsp;&nbsp;Pre-seminar (''Meet-the-speaker'') Cambridge Cosmology Lunch Talk Organiser  
