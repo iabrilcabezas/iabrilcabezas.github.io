@@ -20,8 +20,8 @@ Talks
 ---------
 
 <!--
-June 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk**  UCL Cosmology Seminars, London
 -->
+June 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk**  UCL Cosmology and ExtraGalactic seminar, London  
 April 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Tales of Gravity, Nottingham  
 Mar 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Stanford CMB constellation meeting, virtual  
 Jan 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Cambridge-LMU Munich Joint Seminar, Cambridge  
