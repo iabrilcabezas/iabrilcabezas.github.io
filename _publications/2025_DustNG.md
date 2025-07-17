@@ -6,7 +6,7 @@ excerpt: 'Does dust non-Gaussianity affect our constraints on CMB lensing measur
 date: 2025-05-07
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2505.03737'
-citation: 'Irene Abril-Cabezas et al 2025, arXiv 2505.03737'
+citation: 'Irene Abril-Cabezas et al 2025, Phys. Rev. D 112, 023522'
 arxiv: 'https://arxiv.org/abs/2505.03737'
 ---
 
