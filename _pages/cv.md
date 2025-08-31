@@ -38,8 +38,7 @@ Oct 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Pan-Exp
 Sept 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** 26th International Conference on Particle Physics and Cosmology, Madrid  
 Sept 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Microsoft Women in Data Centers Group, Madrid  
 July 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Understanding Comological Observations Workshop, Benasque  
-June 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** KICC Focus Meeting on Astrostatistics and Astro-Machine Learning, Cambridge  
-June 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SO:UK Collaboration Meeting, Cambridge  
+June 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** KICC Focus Meeting on Astrostatistics and Astro-Machine Learning, Cambridge  <!-- June 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SO:UK Collaboration Meeting, Cambridge -->  
 March 2022&nbsp;&nbsp;&nbsp;&nbsp;Fitzwilliam College Postgraduate Talks, Cambridge  
 June 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gaia UB Journal Club, Institut de Ciències del Cosmos, virtual  
 Mar 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fermi-LAT Collaboration meeting, virtual  
@@ -75,13 +74,13 @@ Teaching
 Departmental Service
 ---------
 
-2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizer "New results from ACT and DESI" KICC Discussion Day  
-2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOC Member "New Physics from Old Light: Illuminating the Universe with CMB Secondaries" KICC Workshop  
-2024—&nbsp;&nbsp;&nbsp;Faculty of Mathematics EDI Committee Member  
-2024—&nbsp;&nbsp;&nbsp;Cosmology PhD Journal Club Organiser  
-2024—&nbsp;&nbsp;&nbsp;Pre-seminar (''Meet-the-speaker'') Cambridge Cosmology Lunch Talk Organiser  
-2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part III Cosmology Exam Marks Checker  
-2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cambridge Cosmology Journal Club Organizer
+2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizer "New results from ACT and DESI" KICC Discussion Day  
+2024—&nbsp;&nbsp;&nbsp;&nbsp;Cosmology PhD Journal Club Organiser  
+2024—&nbsp;&nbsp;&nbsp;&nbsp;Pre-seminar (''Meet-the-speaker'') Cambridge Cosmology Lunch Talk Organiser  
+2024,25&nbsp;&nbsp;Faculty of Mathematics EDI Committee Member  
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOC Member "New Physics from Old Light: Illuminating the Universe with CMB Secondaries" KICC Workshop  
+2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part III Cosmology Exam Marks Checker  
+2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cambridge Cosmology Journal Club Organizer
 
 
 Workshops
@@ -95,6 +94,14 @@ University of Chicago, USA
 ICTP Trieste, Italy  
 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[École thématique du CNRS _Future Cosmology_](https://www.cpt.univ-mrs.fr/~cosmo/EC2023/index.php),
 IESC Cargèse, France  
+
+Public software and tools
+----------
+
+**Contributing developer** CMB lensing pipeline for the Atacama Cosmology Telescope and Simons Observatory  
+* `so-lenspipe` (https://github.com/simonsobs/so-lenspipe) 
+* `sofind` (https://github.com/simonsobs/sofind)
+
 
 Undergraduate Research Experience
 ----------
