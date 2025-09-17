@@ -16,7 +16,7 @@ arxiv: 'https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0
 
 [11] "_The Atacama Cosmology Telescope: DR6 Constraints on Extended Cosmological Models_" Erminia Calabrese, ..., **Irene Abril-Cabezas**, _et al_, 2025, submitted to JCAP, [arXiv:2503.14454](https://arxiv.org/pdf/2503.14454.pdf)   
 
-[10] "_The Atacama Cosmology Telescope: DR6 Power Spectra, Likelihoods and $\Lambda$CDM Parameters", Thibaut Louis, ..., **Irene Abril-Cabezas**, _et al_, 2025, submitted to JCAP, [arXiv:2503.14452](https://arxiv.org/pdf/2503.14452.pdf)   
+[10] "_The Atacama Cosmology Telescope: DR6 Power Spectra, Likelihoods and $\Lambda$CDM Parameters_", Thibaut Louis, ..., **Irene Abril-Cabezas**, _et al_, 2025, submitted to JCAP, [arXiv:2503.14452](https://arxiv.org/pdf/2503.14452.pdf)   
 
 [9] "_The Atacama Cosmology Telescope: DR6 Maps_", Sigurd Naess, ..., **Irene Abril-Cabezas**, _et al_, 2025, submitted to JCAP, [arXiv:2503.14451](https://arxiv.org/pdf/2503.14451.pdf)
 
