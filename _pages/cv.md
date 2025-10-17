@@ -20,7 +20,11 @@ Talks
 ---------
 
 <!--
+Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gravity Group, Lawrence Berkeley National Laboratory, Berkeley  
+Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gravity Group, Stanford University,   
+Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Astrophysics Seminar, University of Pennsylvania, Philadelphia  
 -->
+Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gravity Group, Princeton University, Princeton  
 Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** New Physics from Galaxy Clustering at GGI, Florence  
 Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Cambridge-LMU Cosmology Meeting, Munich  
 June 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk**  UCL Cosmology and ExtraGalactic seminar, London  
