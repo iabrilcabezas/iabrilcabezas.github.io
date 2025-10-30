@@ -20,9 +20,10 @@ Talks
 ---------
 
 <!--
-Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gravity Group, Lawrence Berkeley National Laboratory, Berkeley  
-Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gravity Group, Stanford University,   
 -->
+
+Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** BCCP/Cosmology Seminar, Lawrence Berkeley National Laboratory, Berkeley  
+Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** KIPAC Seminar, Stanford University, Stanford    
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Astrophysics Seminar, University of Pennsylvania, Philadelphia  
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gravity Group, Princeton University, Princeton  
 Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** New Physics from Galaxy Clustering at GGI, Florence  
@@ -80,13 +81,13 @@ Teaching
 Departmental Service
 ---------
 
-2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organizer "New results from ACT and DESI" KICC Discussion Day  
-2024—&nbsp;&nbsp;&nbsp;&nbsp;Cosmology PhD Journal Club Organiser  
-2024—&nbsp;&nbsp;&nbsp;&nbsp;Pre-seminar (''Meet-the-speaker'') Cambridge Cosmology Lunch Talk Organiser  
-2024,25&nbsp;&nbsp;Faculty of Mathematics EDI Committee Member  
-2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOC Member "New Physics from Old Light: Illuminating the Universe with CMB Secondaries" KICC Workshop  
-2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part III Cosmology Exam Marks Checker  
-2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cambridge Cosmology Journal Club Organizer
+2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organiser: "New results from ACT and DESI" Discussion Day, Cambridge Kavli Institute for Cosmology  
+2024—&nbsp;&nbsp;&nbsp;&nbsp;Organiser: Cosmology PhD Journal Club, University of Cambridge  
+2024—&nbsp;&nbsp;&nbsp;&nbsp;Organiser: ''Meet-the-speaker'' Cosmology Lunch Seminar, University of Cambridge    
+2024,25&nbsp;&nbsp;Postgraduate representative: Faculty of Mathematics EDI Committee, University of Cambridge  
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organiser: "New Physics from Old Light: Illuminating the Universe with CMB Secondaries" Workshop, Cambridge Kavli Institute for Cosmology
+2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exam Marks Checker: Part III Cosmology, University of Cambridge   
+2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organiser: Cosmology Journal Club, Department of Applied Mathematics and Theoretical Physics, University of Cambridge
 
 
 Workshops
