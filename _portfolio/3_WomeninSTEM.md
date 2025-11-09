@@ -7,6 +7,7 @@ collection: portfolio
 <!-- 
 (https://innovadorastic.org). Featured in the 2024 edition of this [magazine]().
 -->
+- **Invited speaker** Trinity Hall Maths Society, Nov 2025  
 - **Invited speaker** International Day of Women and Girls in Science event organised by [Girls4STEM](https://girls4stem.uv.es/#/principal) (11 February 2025, via zoom). More than a 100 educational centers connected to the webinar. You can watch the recording [here](https://www.youtube.com/watch?v=6hcqAeDie3s).
 - **Invited plenary speaker** Dialogue "Women's leadership in Physics" at the XXXIX Royal Spanish Physics Society Biennial Meeting, Donostia (Spain)  
 - **Featured interview** as part of the Women in Research Blog of the 73rd Lindau Nobel Laureate Meeting (Physics). You can read it [here](https://www.lindau-nobel.org/blog-women-in-research-lino24-irene-abril-cabezas/).  
