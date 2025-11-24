@@ -20,6 +20,7 @@ Talks
 ---------
 
 <!--
+Dec 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** BCCP/Cosmology Seminar, Perimeter Institute, Waterloo  
 -->
 
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** BCCP/Cosmology Seminar, Lawrence Berkeley National Laboratory, Berkeley  
@@ -73,6 +74,9 @@ Sept 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top 14 Madrid Distinction Award in Obliga
 Teaching
 ---------
 
+<!--
+2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interviewer: Mathematics Undergraduate Admissions at Fitzwilliam College, University of Cambridge
+-->
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interviewer: Mathematics Undergraduate Admissions at Fitzwilliam College, University of Cambridge  
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Part Ia Dynamics and Relativity, University of Cambridge   
 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Part III Cosmology, University of Cambridge
@@ -85,7 +89,7 @@ Departmental Service
 2024—&nbsp;&nbsp;&nbsp;&nbsp;Organiser: Cosmology PhD Journal Club, University of Cambridge  
 2024—&nbsp;&nbsp;&nbsp;&nbsp;Organiser: ''Meet-the-speaker'' Cosmology Lunch Seminar, University of Cambridge    
 2024,25&nbsp;&nbsp;Postgraduate representative: Faculty of Mathematics EDI Committee, University of Cambridge  
-2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organiser: "New Physics from Old Light: Illuminating the Universe with CMB Secondaries" Workshop, Cambridge Kavli Institute for Cosmology
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organiser: "New Physics from Old Light: Illuminating the Universe with CMB Secondaries" Workshop, Cambridge Kavli Institute for Cosmology   
 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exam Marks Checker: Part III Cosmology, University of Cambridge   
 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organiser: Cosmology Journal Club, Department of Applied Mathematics and Theoretical Physics, University of Cambridge
 
