@@ -1,5 +1,5 @@
 ---
-title: "Impact of Galactic non-Gaussian foregrounds on CMB lensing measurements"
+title: "The Atacama Cosmology Telescope: A demonstration of CMB lensing measurement from daytime data"
 collection: publications
 permalink: /publication/2025_daytime
 excerpt: 'The Atacama Cosmology Telescope: A demonstration of CMB lensing measurement from daytime data'
