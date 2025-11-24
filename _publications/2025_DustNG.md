@@ -3,9 +3,9 @@ title: "Impact of Galactic non-Gaussian foregrounds on CMB lensing measurements"
 collection: publications
 permalink: /publication/2025_DustNG
 excerpt: 'Does dust non-Gaussianity affect our constraints on CMB lensing measurements?'
-date: 2025-05-07
-venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/abs/2505.03737'
+date: 2025-07-15
+venue: 'Physical Review D'
+paperurl: 'https://doi.org/10.1103/jhmr-mg6w'
 citation: 'Irene Abril-Cabezas et al 2025, Phys. Rev. D 112, 023522'
 arxiv: 'https://arxiv.org/abs/2505.03737'
 ---
