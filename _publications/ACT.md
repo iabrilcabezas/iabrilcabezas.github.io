@@ -10,15 +10,15 @@ citation: 'The Atacama Cosmology Telescope Collaboration, incl. Irene Abril-Cabe
 arxiv: 'https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=irene+abril-cabezas&terms-0-field=author&terms-1-operator=AND&terms-1-term=The+Atacama+Cosmology+Telescope&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first'
 ---
 
-[13] "_The Atacama Cosmology Telescope: High-redshift measurement of structure growth from the cross-correlation of Quaia quasars and CMB lensing from ACT DR6 and Planck PR4_", Carmen Embil Villagra, ..., **Irene Abril-Cabezas**, _et al_, 2025, submitted, [arXiv:2507.08798](https://arxiv.org/pdf/2507.08798.pdf)   
+[13] "_The Atacama Cosmology Telescope: High-redshift measurement of structure growth from the cross-correlation of Quaia quasars and CMB lensing from ACT DR6 and Planck PR4_", Carmen Embil Villagra, ..., **Irene Abril-Cabezas**, _et al_, 2025, accepted in JCAP, [arXiv:2507.08798](https://arxiv.org/pdf/2507.08798.pdf)   
 
-[12] "_Unified and consistent structure growth measurements from joint ACT, SPT and Planck CMB lensing_", Frank J. Qu, Fei Ge, W. L. Kimmy Wu, **Irene Abril-Cabezas**, _et al_, 2025, submitted, [arXiv:2504.20038](https://arxiv.org/pdf/2504.20038.pdf)   
+[12] "_Unified and consistent structure growth measurements from joint ACT, SPT and Planck CMB lensing_", Frank J. Qu, Fei Ge, W. L. Kimmy Wu, **Irene Abril-Cabezas**, _et al_, 2025, accepted in Phys. Rev. Lett., [arXiv:2504.20038](https://arxiv.org/pdf/2504.20038.pdf)   
 
-[11] "_The Atacama Cosmology Telescope: DR6 Constraints on Extended Cosmological Models_" Erminia Calabrese, ..., **Irene Abril-Cabezas**, _et al_, 2025, submitted to JCAP, [arXiv:2503.14454](https://arxiv.org/pdf/2503.14454.pdf)   
+[11] "_The Atacama Cosmology Telescope: DR6 Constraints on Extended Cosmological Models_" Erminia Calabrese, ..., **Irene Abril-Cabezas**, _et al_, 2025, _JCAP_ **11** 063, [arXiv:2503.14454](https://arxiv.org/pdf/2503.14454.pdf)   
 
-[10] "_The Atacama Cosmology Telescope: DR6 Power Spectra, Likelihoods and $\Lambda$CDM Parameters_", Thibaut Louis, ..., **Irene Abril-Cabezas**, _et al_, 2025, submitted to JCAP, [arXiv:2503.14452](https://arxiv.org/pdf/2503.14452.pdf)   
+[10] "_The Atacama Cosmology Telescope: DR6 Power Spectra, Likelihoods and $\Lambda$CDM Parameters_", Thibaut Louis, ..., **Irene Abril-Cabezas**, _et al_, 2025, _JCAP_ **11** 062, [arXiv:2503.14452](https://arxiv.org/pdf/2503.14452.pdf)   
 
-[9] "_The Atacama Cosmology Telescope: DR6 Maps_", Sigurd Naess, ..., **Irene Abril-Cabezas**, _et al_, 2025, submitted to JCAP, [arXiv:2503.14451](https://arxiv.org/pdf/2503.14451.pdf)
+[9] "_The Atacama Cosmology Telescope: DR6 Maps_", Sigurd Naess, ..., **Irene Abril-Cabezas**, _et al_, 2025, _JCAP_ **11** 061, [arXiv:2503.14451](https://arxiv.org/pdf/2503.14451.pdf)
 
 
 [8] "_The Atacama Cosmology Telescope DR6 and DESI: structure formation over cosmic time with a measurement of the cross-correlation of CMB lensing and luminous red galaxies_", Joshua Kim, ..., **Irene Abril-Cabezas**, _et al_, 2024, _JCAP_ **12** 022

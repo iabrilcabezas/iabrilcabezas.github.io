@@ -20,7 +20,7 @@ Talks
 ---------
 
 <!--
-Dec 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** BCCP/Cosmology Seminar, Perimeter Institute, Waterloo  
+Dec 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** BCCP/Cosmology Seminar, Perimeter Institute for Theoretical Physics, Waterloo  
 -->
 
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** BCCP/Cosmology Seminar, Lawrence Berkeley National Laboratory, Berkeley  
