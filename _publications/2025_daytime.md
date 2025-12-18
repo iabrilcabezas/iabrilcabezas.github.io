@@ -6,7 +6,7 @@ excerpt: 'The Atacama Cosmology Telescope: A demonstration of CMB lensing measur
 date: 2025-11-13
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2511.10620'
-citation: 'Irene Abril-Cabezas et al 2025, arXiv eprints 2511.10620, to be submitted to Phys. Rev. Lett.'
+citation: 'Irene Abril-Cabezas et al 2025, arXiv eprints 2511.10620, submitted to Phys. Rev. Lett.'
 arxiv: 'https://arxiv.org/abs/2511.10620'
 ---
 
