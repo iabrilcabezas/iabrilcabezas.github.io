@@ -2,7 +2,7 @@
 title: "The Atacama Cosmology Telescope: A demonstration of CMB lensing measurement from daytime data"
 collection: publications
 permalink: /publication/2025_daytime
-excerpt: 'The Atacama Cosmology Telescope: A demonstration of CMB lensing measurement from daytime data'
+excerpt: 'We unlock ACT daytime data!'
 date: 2025-11-13
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2511.10620'

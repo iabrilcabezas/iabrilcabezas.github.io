@@ -20,7 +20,7 @@ author_profile: true
 
 {% assign first_by_year = first_author_pubs | group_by_exp: "p", "p.date | date: '%Y'" %}
 {% for year in first_by_year %}
-  ### {{ year.name }}
+
   {% for post in year.items %}
     {% include archive-single.html %}
   {% endfor %}
@@ -30,7 +30,7 @@ author_profile: true
 
 {% assign contrib_by_year = contrib_pubs | group_by_exp: "p", "p.date | date: '%Y'" %}
 {% for year in contrib_by_year %}
-  ### {{ year.name }}
+
   {% for post in year.items %}
     {% include archive-single.html %}
   {% endfor %}
