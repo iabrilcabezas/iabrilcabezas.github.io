@@ -8,6 +8,7 @@ venue: 'Physical Review D'
 paperurl: 'https://doi.org/10.1103/jhmr-mg6w'
 citation: 'Irene Abril-Cabezas et al 2025, Phys. Rev. D 112, 023522'
 arxiv: 'https://arxiv.org/abs/2505.03737'
+first_author: true
 ---
 
 [Irene Abril-Cabezas _et al_ 2025, Phys. Rev. D **112**, 023522](https://arxiv.org/abs/2505.03737)

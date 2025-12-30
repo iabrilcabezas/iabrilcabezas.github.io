@@ -8,6 +8,7 @@ venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2511.10620'
 citation: 'Irene Abril-Cabezas et al 2025, arXiv eprints 2511.10620, submitted to Phys. Rev. Lett.'
 arxiv: 'https://arxiv.org/abs/2511.10620'
+first_author: true
 ---
 
 [Irene Abril-Cabezas _et al_ 2025, arXiv eprints 2511.10620](https://arxiv.org/abs/2505.03737)

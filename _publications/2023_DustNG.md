@@ -8,6 +8,7 @@ venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://arxiv.org/abs/2309.09978'
 citation: 'Irene Abril-Cabezas et al 2024 MNRAS 527 3 5751-5766'
 arxiv: 'https://arxiv.org/abs/2309.09978'
+first_author: true
 ---
 
 [Irene Abril-Cabezas _et al_ 2024 _MNRAS_ **527** 3 5751-5766](https://arxiv.org/abs/2309.09978)
