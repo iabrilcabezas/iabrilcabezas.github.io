@@ -13,8 +13,8 @@ Education
 ---------
 
 * PhD in Applied Mathematics and Theoretical Physics, DAMTP, University of Cambridge (present)
-* MASt in Astrophysics, Institute of Astronomy, University of Cambridge, 2022 (Rank 1/7)
-* Physics Degree, Department of Physics, Universidad Complutense de Madrid, 2021 (Extraordinary End-of-Degree Award)
+* MASt in Astrophysics, Institute of Astronomy, University of Cambridge, 2022 (Pass with Distinction, Rank 1/7)
+* Physics Degree, Department of Physics, Universidad Complutense de Madrid, 2021 (9.76/10.00, Extraordinary End-of-Degree Award)
 
 Talks
 ---------
