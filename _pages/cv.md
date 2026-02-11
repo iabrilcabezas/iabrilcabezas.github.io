@@ -18,10 +18,11 @@ Education
 
 Talks
 ---------
-
 <!--
--->
-Dec 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Cosmology and Gravitation Seminar, Perimeter Institute for Theoretical Physics, Waterloo  
+Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Early Universe from Home Conference, online  -->   
+Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** New Synergies in Multi-Probe Cosmology Conference, KITP, Santa Barbara  
+Jan 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Experimental Seminar, IFAE, Barcelona  
+Dec 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Cosmology and Gravitation Seminar, Perimeter Institute for Theoretical Physics, Waterloo  
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** BCCP/Cosmology Seminar, Lawrence Berkeley National Laboratory, Berkeley  
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** KIPAC Seminar, Stanford University, Stanford    
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Astrophysics Seminar, University of Pennsylvania, Philadelphia  
@@ -73,9 +74,7 @@ Sept 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top 14 Madrid Distinction Award in Obliga
 Teaching
 ---------
 
-<!--
 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Part Ib Electromagnetism, University of Cambridge   
--->
 2024,25&nbsp;&nbsp;&nbsp; Interviewer: Mathematics Undergraduate Admissions at Fitzwilliam College, University of Cambridge  
 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Part Ia Dynamics and Relativity, University of Cambridge   
 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Part III Cosmology, University of Cambridge
