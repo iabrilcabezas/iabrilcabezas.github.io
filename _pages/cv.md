@@ -18,8 +18,8 @@ Education
 
 Talks
 ---------
-<!--
-Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Early Universe from Home Conference, online  -->   
+<!----> 
+Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Early Universe from Home Conference, online    
 Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** New Synergies in Multi-Probe Cosmology Conference, KITP, Santa Barbara  
 Jan 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Experimental Seminar, IFAE, Barcelona  
 Dec 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Cosmology and Gravitation Seminar, Perimeter Institute for Theoretical Physics, Waterloo  
