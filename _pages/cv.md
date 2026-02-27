@@ -18,16 +18,16 @@ Education
 
 Talks
 ---------
-<!----> 
-Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Early Universe from Home Conference, online    
+<!---->  
+Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Early Universe from Home Conference, online  
 Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** New Synergies in Multi-Probe Cosmology Conference, KITP, Santa Barbara  
 Jan 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Experimental Seminar, IFAE, Barcelona  
 Dec 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Cosmology and Gravitation Seminar, Perimeter Institute for Theoretical Physics, Waterloo  
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** BCCP/Cosmology Seminar, Lawrence Berkeley National Laboratory, Berkeley  
-Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** KIPAC Seminar, Stanford University, Stanford    
+Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** KIPAC Seminar, Stanford University, Stanford  
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Astrophysics Seminar, University of Pennsylvania, Philadelphia  
 Oct 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Gravity Group, Princeton University, Princeton  
-Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** New Physics from Galaxy Clustering at GGI, Florence    <!-- ([video](https://www.youtube.com/watch?v=NhHHfisf7KM)) -->   
+Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** New Physics from Galaxy Clustering at GGI, Florence    <!-- ([video](https://www.youtube.com/watch?v=NhHHfisf7KM)) -->  
 Sept 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Cambridge-LMU Cosmology Meeting, Munich  
 June 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk**  UCL Cosmology and ExtraGalactic seminar, London  
 April 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** Tales of Gravity, Nottingham  
