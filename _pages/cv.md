@@ -19,6 +19,7 @@ Education
 Talks
 ---------
 <!---->  
+May 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Oxford Cosmology Seminar, Oxford  
 Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Early Universe from Home Conference, online  
 Feb 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Contributed talk** New Synergies in Multi-Probe Cosmology Conference, KITP, Santa Barbara  
 Jan 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Invited talk** Experimental Seminar, IFAE, Barcelona  
