@@ -6,7 +6,7 @@ excerpt: 'For the first time, we explore different dust size distributions along
 date: 2025-04-28
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2604.24570'
-citation: 'Namikawa, Abril-Cabezas, Sherwin, 2025, Phys. Rev. D 112, 023536'
+citation: 'Vaia, Zeegers, Abril-Cabezas, Costantini, 2026, accepted in A&A'
 arxiv: 'https://arxiv.org/abs/2604.24570'
 ---
 
