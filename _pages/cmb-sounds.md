@@ -1,9 +1,11 @@
 ---
 layout: archive
 permalink: /cmb-sounds/
-author_profile: true
+author_profile: false
 title: "Resources: Cosmic sounds"
 ---
+
+From Mark Whittle (University of Virginia), you can find further resources [here](https://markwhittle.uvacreate.virginia.edu/BBA_web/index_frames.html)
 
 <div style="text-align:center; margin:2rem 0;">
   <img
@@ -21,12 +23,14 @@ title: "Resources: Cosmic sounds"
 
 <h2>Audio 2</h2>
 <audio controls preload="none" style="width:100%;">
-  <source src="/files/cmb-sounds/spike_z1700_4s.wav" type="audio/wav">
+  <source src="/files/cmb-sounds/spike_z1700_pofk_4s.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
 <h2>Audio 3</h2>
 <audio controls preload="none" style="width:100%;">
-  <source src="/files/cmb-sounds/spike_z1700_pofk_4s.wav" type="audio/wav">
+  <source src="/files/cmb-sounds/spike_z1700_4s.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
+
+
