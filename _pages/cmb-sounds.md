@@ -1,7 +1,6 @@
 ---
-layout: archive
+layout: single
 permalink: /cmb-sounds/
-author_profile: false
 title: "Resources: Cosmic sounds"
 ---
 
