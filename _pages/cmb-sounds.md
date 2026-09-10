@@ -5,7 +5,7 @@ author_profile: false
 title: "Resources: Cosmic sounds"
 ---
 
-A part of our exhibit at the Royal Society Summer Exhibition 2026 featured sonifications of the Cosmic Microwave Background ("How does the oldest light in the Universe sound like?"). This was based on the work done by Mark Whittle (University of Virginia), who developed and shared incredible resources [here](https://markwhittle.uvacreate.virginia.edu/BBA_web/index_frames.html).
+A part of our exhibit at the Royal Society Summer Exhibition 2026 featured sonifications of the Cosmic Microwave Background ("How does the oldest light in the Universe sound like?"). This was based on the work done by Mark Whittle (University of Virginia), who developed and shared incredible resources [here](https://markwhittle.uvacreate.virginia.edu/BBA_web/index_frames.html). Scroll to the bottom to watch a video of our full stand!  
 
 <div style="text-align:center; margin:2rem 0;">
   <img
@@ -34,3 +34,9 @@ A part of our exhibit at the Royal Society Summer Exhibition 2026 featured sonif
 </audio>
 
 
+<h2>Our stand at the Royal Society Summer Exhibition 2026</h2>
+<div style="text-align:center; margin:2rem 0;">
+  <video controls preload="none" style="max-width:100%; height:auto;">
+ <source src="/files/cmb-sounds/SO_stand_at_the_Royal_Society.mov", type="video/quicktime"> Your browser does not support the video element. 
+ </video>
+</div>
