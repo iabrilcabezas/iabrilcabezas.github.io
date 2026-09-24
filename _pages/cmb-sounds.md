@@ -35,10 +35,20 @@ title: "The Simons Observatory at the Royal Society Summer Exhibition 2026"
 
 # Resources: Cosmic sounds
 
-A part of our exhibit at the Royal Society Summer Exhibition 2026 featured sonifications of the Cosmic Microwave Background ("How does the oldest light in the Universe sound like?"). This was based on the work done by Mark Whittle (University of Virginia), who developed and shared incredible resources [here](https://markwhittle.uvacreate.virginia.edu/BBA_web/index_frames.html). Scroll to the bottom to watch a video of our full stand! 
+A part of our exhibit at the Royal Society Summer Exhibition 2026 featured sonifications of the Cosmic Microwave Background ("How does the oldest light in the Universe sound like?"). This was based on the work done by Mark Whittle (University of Virginia), who developed and shared incredible resources [here](https://markwhittle.uvacreate.virginia.edu/BBA_web/index_frames.html). Scroll to the bottom to watch a video of our full stand!  
 
+<figure style="text-align:center; margin:2rem 0;">
+  <img
+    src="/files/cmb-sounds/Cosmic_Microwave.jpg"
+    alt="Visualization of the cosmic microwave background"
+    style="max-width:100%; height:auto;"
+  >
+  <figcaption style="font-size:0.85rem; color:#666; margin-top:0; font-style:italic;">
+    Image credit: Mark Whittle
+  </figcaption>
+</figure>
 
-
+<!-- 
 <div style="text-align:center; margin:2rem 0;">
   <img
     src="/files/cmb-sounds/Cosmic_Microwave.jpg"
@@ -46,6 +56,7 @@ A part of our exhibit at the Royal Society Summer Exhibition 2026 featured sonif
     style="max-width:100%; height:auto;"
   >
 </div>
+-->
 
 <h2>Observed: C(l)</h2>
 <audio controls preload="none" style="width:100%;">
