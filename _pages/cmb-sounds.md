@@ -5,6 +5,13 @@ author_profile: false
 title: "The Simons Observatory at the Royal Society Summer Exhibition 2026"
 ---
 
+<div style="text-align:center; margin:2rem 0;">
+  <img
+    src="/files/cmb-sounds/Credit_Debbie_Rowe_and_The_Royal_Society.jpg"
+    alt="Talking to visitors at the Simons Observatory stand"
+    style="max-width:100%; height:auto;"
+  >
+</div>
 
 <h2>Let me show you around our stand!</h2>
 <div style="text-align:center; margin:2rem 0;">
