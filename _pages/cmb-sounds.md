@@ -44,7 +44,7 @@ A part of our exhibit at the Royal Society Summer Exhibition 2026 featured sonif
     style="max-width:100%; height:auto;"
   >
   <figcaption style="font-size:0.85rem; color:#666; margin-top:0; font-style:italic;">
-    Image credit: Mark Whittle
+    Credit: Mark Whittle
   </figcaption>
 </figure>
 
