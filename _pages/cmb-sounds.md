@@ -5,6 +5,18 @@ author_profile: false
 title: "The Simons Observatory at the Royal Society Summer Exhibition 2026"
 ---
 
+<figure style="text-align:center; margin:2rem 0;">
+  <img
+    src="/files/cmb-sounds/Credit_Debbie_Rowe_and_The_Royal_Society.jpg"
+    alt="Talking to visitors at the Simons Observatory stand"
+    style="max-width:100%; height:auto;"
+  >
+  <figcaption style="font-size:0.85rem; color:#666; margin-top:0.5rem; font-style:italic;">
+    Image credit: Debbie Rowe / The Royal Society
+  </figcaption>
+</figure>
+
+<!-- 
 <div style="text-align:center; margin:2rem 0;">
   <img
     src="/files/cmb-sounds/Credit_Debbie_Rowe_and_The_Royal_Society.jpg"
@@ -12,6 +24,7 @@ title: "The Simons Observatory at the Royal Society Summer Exhibition 2026"
     style="max-width:100%; height:auto;"
   >
 </div>
+-->
 
 <h2>Let me show you around our stand!</h2>
 <div style="text-align:center; margin:2rem 0;">
@@ -22,7 +35,9 @@ title: "The Simons Observatory at the Royal Society Summer Exhibition 2026"
 
 # Resources: Cosmic sounds
 
-A part of our exhibit at the Royal Society Summer Exhibition 2026 featured sonifications of the Cosmic Microwave Background ("How does the oldest light in the Universe sound like?"). This was based on the work done by Mark Whittle (University of Virginia), who developed and shared incredible resources [here](https://markwhittle.uvacreate.virginia.edu/BBA_web/index_frames.html). Scroll to the bottom to watch a video of our full stand!  
+A part of our exhibit at the Royal Society Summer Exhibition 2026 featured sonifications of the Cosmic Microwave Background ("How does the oldest light in the Universe sound like?"). This was based on the work done by Mark Whittle (University of Virginia), who developed and shared incredible resources [here](https://markwhittle.uvacreate.virginia.edu/BBA_web/index_frames.html). Scroll to the bottom to watch a video of our full stand! 
+
+
 
 <div style="text-align:center; margin:2rem 0;">
   <img
