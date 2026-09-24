@@ -11,7 +11,7 @@ title: "The Simons Observatory at the Royal Society Summer Exhibition 2026"
     alt="Talking to visitors at the Simons Observatory stand"
     style="max-width:100%; height:auto;"
   >
-  <figcaption style="font-size:0.85rem; color:#666; margin-top:0.5rem; font-style:italic;">
+  <figcaption style="font-size:0.85rem; color:#666; margin-top:0; font-style:italic;">
     Image credit: Debbie Rowe / The Royal Society
   </figcaption>
 </figure>
